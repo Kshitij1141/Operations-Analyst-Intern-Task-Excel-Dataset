@@ -1,8 +1,13 @@
 # 📊 Operations Intern Assignment
 
-![Role](https://img.shields.io/badge/Role-Operations%20Intern-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-Excel%20%2F%20Google%20Sheets-green?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Data%20Cleaning%20%7C%20Validation%20%7C%20Transformation-orange?style=flat-square)
+![Operation Intern](https://img.shields.io/badge/Role-Operation%20Intern-007bff?style=for-the-badge&logo=briefcase&logoColor=white)
+![Operation Analysis](https://img.shields.io/badge/Role-Operation%20Analysis-6610f2?style=for-the-badge&logo=chart-bar&logoColor=white)
+![Skill](https://img.shields.io/badge/Skill-PivotTables%20%26%20Dashboard-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=check-circle&logoColor=white)
+![SQL](https://img.shields.io/badge/Skill-SQL-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Skill-Problem%20Solving-ff4500?style=for-the-badge&logo=leanpub&logoColor=white)
+![Logical Thinking](https://img.shields.io/badge/Skill-Logical%20Thinking-009688?style=for-the-badge&logo=brain&logoColor=white)
+
 
 ---
 
